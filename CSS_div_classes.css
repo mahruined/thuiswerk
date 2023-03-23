@@ -1,0 +1,39 @@
+
+html {
+    border: 50px solid gray;
+    height: 100%;
+}
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: blue;
+    
+}
+.first h2 {
+    color: red;}
+
+
+.first p {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+.first {
+    background-color: turquoise;
+        
+}
+.second p {
+    font-family: Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+
+}
+.second {
+    background-color: olive;
+   
+}
+.second h2{
+    color: green;}
+
+
