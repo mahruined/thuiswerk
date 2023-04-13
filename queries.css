@@ -1,0 +1,19 @@
+
+html {
+    background-color: red;
+  }
+   @media screen and (min-width: 576px) {
+    html {
+      background-color: green;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    html {
+      background-color: blue;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    html {
+      background-color: orange;
+    }
+  }

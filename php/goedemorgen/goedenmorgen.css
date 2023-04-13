@@ -1,0 +1,21 @@
+body {
+    background-image: url(morning.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 4em;
+  }
+  
+  p {
+    font-size: 2em;
+  }
